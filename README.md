@@ -44,10 +44,10 @@ An active Elanak.ir account and sufficient SMS credit are required.
 
 ### 1. Upload the Module
 
-Upload the module directory to:
+Upload the module directory to root of whmcs
 
 ```text
-/modules/addons/sms_login_registration/
+/whmcs/
 ```
 
 ### 2. Activate the Addon
